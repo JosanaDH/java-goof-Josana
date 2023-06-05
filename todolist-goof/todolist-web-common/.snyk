@@ -7,4 +7,12 @@ ignore:
         reason: josanatest
         expires: 2023-07-05T02:55:49.794Z
         created: 2023-06-05T02:55:49.799Z
+    - io.github.snyk:todolist-web-common > com.fasterxml.jackson.core:jackson-databind > com.fasterxml.jackson.core:jackson-core:
+        reason: josanatest
+        expires: 2023-07-05T02:55:49.794Z
+        created: 2023-06-05T02:55:49.799Z
+    - io.github.snyk:todolist-web-common > com.fasterxml.jackson.core:jackson-core:
+        reason: josanatest
+        expires: 2023-07-05T02:55:49.794Z
+        created: 2023-06-05T02:55:49.799Z
 patch: {}
