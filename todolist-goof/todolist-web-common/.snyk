@@ -7,8 +7,4 @@ ignore:
         reason: josanatest
         expires: 2023-07-05T02:55:49.794Z
         created: 2023-06-05T02:55:49.799Z
-    - com.fasterxml.jackson.core:jackson-databind:
-        reason: josanatest
-        expires: 2023-07-05T02:55:49.794Z
-        created: 2023-06-05T02:55:49.799Z
 patch: {}
